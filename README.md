@@ -12,7 +12,7 @@ Add the overlay to a flake:
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    tilt-overlay.url = "github:0xbigboss/tilt-overlay";
+    tilt-overlay.url = "github:alleneubank/tilt-overlay";
   };
 
   outputs = { self, nixpkgs, tilt-overlay, ... }: {
@@ -24,7 +24,7 @@ Add the overlay to a flake:
 Run directly:
 
 ```bash
-nix run github:0xbigboss/tilt-overlay
+nix run github:alleneubank/tilt-overlay
 ```
 
 Build locally:
