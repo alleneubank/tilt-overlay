@@ -57,6 +57,14 @@
     "version": "0.37.5-fork.20260713.gdec442fe4",
     "tag": "v0.37.5-fork.20260713.gdec442fe4",
     "platforms": {
+      "aarch64-darwin": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.5-fork.20260713.gdec442fe4/tilt.0.37.5-fork.20260713.gdec442fe4.mac.arm64.tar.gz",
+        "sha256": "0h92l9jwjzagljlf7hfz5nbq4sm41abd9anpiw2qj358y9xwpqk7"
+      },
+      "x86_64-darwin": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.5-fork.20260713.gdec442fe4/tilt.0.37.5-fork.20260713.gdec442fe4.mac.x86_64.tar.gz",
+        "sha256": "15bb88shjv5a5hcsfw7qz51dcwkmr1ipn2xv388620rvy0h1dx8n"
+      },
       "x86_64-linux": {
         "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.5-fork.20260713.gdec442fe4/tilt.0.37.5-fork.20260713.gdec442fe4.linux.x86_64.tar.gz",
         "sha256": "1j245z7j4bd2aq9a40yq3ialx0rbp8nsmd4lh19nz4k247axrmg2"
