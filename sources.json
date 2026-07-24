@@ -90,5 +90,15 @@
         "sha256": "1307iivs2kym9yd27mk9kd4vxbj6r42s35zd0ms66k6i64ylfahw"
       }
     }
+  },
+  "0.37.5-fork.20260724.g224a0ec7c": {
+    "version": "0.37.5-fork.20260724.g224a0ec7c",
+    "tag": "v0.37.5-fork.20260724.g224a0ec7c",
+    "platforms": {
+      "x86_64-linux": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.5-fork.20260724.g224a0ec7c/tilt.0.37.5-fork.20260724.g224a0ec7c.linux.x86_64.tar.gz",
+        "sha256": "0j64bp2cbpq1sw87yif4bjhkhq1plwk21rddc34qn8pcw3j8l1ah"
+      }
+    }
   }
 }
