@@ -126,5 +126,23 @@
         "sha256": "06xy9bny5phmgc7rz6bn9np4qqsrawgkaxha35cxawkr3k8px3pk"
       }
     }
+  },
+  "0.37.7-fork.20260819.gfa564bca6": {
+    "version": "0.37.7-fork.20260819.gfa564bca6",
+    "tag": "v0.37.7-fork.20260819.gfa564bca6",
+    "platforms": {
+      "aarch64-darwin": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.7-fork.20260819.gfa564bca6/tilt.0.37.7-fork.20260819.gfa564bca6.mac.arm64.tar.gz",
+        "sha256": "103mwk40a6l8k5lq9bc2q7c74k7j75saa012a9nvd9yb5gisrhj7"
+      },
+      "x86_64-darwin": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.7-fork.20260819.gfa564bca6/tilt.0.37.7-fork.20260819.gfa564bca6.mac.x86_64.tar.gz",
+        "sha256": "1q927ksns1lzakgh1dzvi64dnrbd4005vj05hmnhjwclgd3r9qb9"
+      },
+      "x86_64-linux": {
+        "url": "https://github.com/alleneubank/tilt/releases/download/v0.37.7-fork.20260819.gfa564bca6/tilt.0.37.7-fork.20260819.gfa564bca6.linux.x86_64.tar.gz",
+        "sha256": "1qvxlznz4ls78xr9g5jqimdbskvg3g45fzpd757sz1vl15yhcay9"
+      }
+    }
   }
 }

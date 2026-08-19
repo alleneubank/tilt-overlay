@@ -56,6 +56,18 @@ Sources are automatically updated via GitHub Actions. To update manually:
 ./update 0.36.0 # Update to specific version
 ```
 
+Fork prereleases stay explicitly pinned and can publish a smaller platform
+matrix than upstream:
+
+```bash
+TILT_REPO=alleneubank/tilt \
+  TILT_PLATFORMS="aarch64-darwin x86_64-darwin x86_64-linux" \
+  ./update 0.37.7-fork.20260819.gfa564bca6
+```
+
+`TILT_REPO` defaults to `tilt-dev/tilt`. `TILT_PLATFORMS` defaults to all
+four platforms in the upstream release.
+
 ## License
 
 MIT (overlay code). Tilt itself is Apache-2.0.
